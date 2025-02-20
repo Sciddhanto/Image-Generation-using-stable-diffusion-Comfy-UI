@@ -12,7 +12,9 @@ The system is designed for **artists, developers, and content creators** who nee
 
 Image 1 - Beautiful scenery nature glass bottle landscape, purple galaxy bottle.
 
-![image](https://github.com/user-attachments/assets/cc319453-7a88-4ac2-ad37-3d88c82d31cb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc319453-7a88-4ac2-ad37-3d88c82d31cb" alt="Galaxy Bottle" width="400"/>
+</p>
 
 Image 2 - An ancient temple submerged in a jungle, partially overtaken by nature but still radiating and ethereal glow.
 

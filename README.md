@@ -1,4 +1,8 @@
 # Image-Generation-using-stable-diffusion-Comfy-UI
 
+## AI-Generated Example:
+
 Image 1 - Beautiful scenery nature glass bottle landscape, purple galaxy bottle.
-![image](https://github.com/user-attachments/assets/81b1e356-53eb-40c4-8e35-83d91b9c3b9d)
+
+![image](https://github.com/user-attachments/assets/cc319453-7a88-4ac2-ad37-3d88c82d31cb)
+

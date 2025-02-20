@@ -46,13 +46,3 @@ The system is designed for **artists, developers, and content creators** who nee
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8981f4f4-c5b1-4001-b452-55b6f2405764" alt="Image 7 Description" width="400"/>
 </p>
-
-### Image 8
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-8TH-IMAGE-LINK-HERE" alt="Image 8 Description" width="400"/>
-</p>
-
-### Image 9
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-9TH-IMAGE-LINK-HERE" alt="Image 9 Description" width="400"/>
-</p>

@@ -18,3 +18,8 @@ The system is designed for **artists, developers, and content creators** who nee
   <img src="https://github.com/user-attachments/assets/cc319453-7a88-4ac2-ad37-3d88c82d31cb" alt="Galaxy Bottle" width="400"/>
 </p>
 
+### Image 2 - An ancient temple submerged in a jungle, partially overtaken by nature but still radiating and ethereal glow
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ac08add-2271-4504-b37c-5cacb0f104c0" alt="Ancient Temple in a Jungle" width="400"/>
+</p>

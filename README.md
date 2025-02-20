@@ -30,3 +30,19 @@ The system is designed for **artists, developers, and content creators** who nee
   <img src="https://github.com/user-attachments/assets/0eef1b65-c4ea-417a-826b-298cc62a1f1e" alt="Cicrular Ball" width="400"/>
 </p>
 
+### Image 4 - Students learning from the online meeting
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e078a93f-74a4-4611-9d4d-d47adf000f7f" alt="Studying" width="400"/>
+</p>
+
+### Image 5 - Cricket match being played between india and Pakistan.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7186e7e-f0ae-4157-a281-b0e0cc3dc2a3" alt="Sports" width="400"/>
+</p>
+
+### Image 6 - Students travelling by a bus
+
+
+

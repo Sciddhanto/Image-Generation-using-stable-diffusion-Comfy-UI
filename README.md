@@ -1,4 +1,12 @@
-# Image-Generation-using-stable-diffusion-Comfy-UI
+## 📌 Project Overview
+This project utilizes **Stable Diffusion** along with **Comfy UI** to generate **high-quality AI images** based on text prompts.  
+The system is designed for **artists, developers, and content creators** who need **AI-powered image synthesis** with easy workflow automation.
+
+### ✨ Features:
+✅ **Stable Diffusion-based image generation**  
+✅ **Comfy UI workflow for node-based automation**  
+✅ **Customizable prompts for high-quality output**  
+✅ **Optimized for creative applications**  
 
 ## AI-Generated Example:
 

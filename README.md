@@ -10,14 +10,11 @@ The system is designed for **artists, developers, and content creators** who nee
 
 ## AI-Generated Example:
 
+## AI-Generated Example:
+
 ### Image 1 - Beautiful scenery nature glass bottle landscape, purple galaxy bottle.
 
 <p align="center">
-  <img src="assets/galaxy_bottle.png" alt="Galaxy Bottle" width="300"/>
+  <img src="https://github.com/user-attachments/assets/cc319453-7a88-4ac2-ad37-3d88c82d31cb" alt="Galaxy Bottle" width="400"/>
 </p>
 
-### Image 2 - An ancient temple submerged in a jungle, partially overtaken by nature but still radiating an ethereal glow.
-
-<p align="center">
-  <img src="assets/ancient_temple.png" alt="Ancient Temple" width="300"/>
-</p>

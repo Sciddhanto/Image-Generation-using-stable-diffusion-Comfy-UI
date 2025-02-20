@@ -44,5 +44,26 @@ The system is designed for **artists, developers, and content creators** who nee
 
 ### Image 6 - Students travelling by a bus
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf9c4eff-6165-4899-9990-fbcf78ad9e2b" alt="Travelling" width="400"/>
+</p>
+
+### Image 7 - Futuristic spaceship hovering over a neon-lit city, glowing thrusters, cinematic composition, ultra-HD.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e3138ae-f5a0-4eff-abf7-2388ae0e89ee" alt="Spaceship" width="400"/>
+</p>
+
+### Image 8 - A giant jellyfish made of galaxies floating in the sky, glowing purple tentacles, surreal, high detail.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c10ea691-4643-4a79-9273-18e2bd2ee23a" alt="Jellyfish" width="400"/>
+</p>
+
+### Image 9 - Ultra-realistic portrait of an old man, deep wrinkles, piercing blue eyes, soft lighting, 4K, cinematic.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46a9c8c4-0315-4d81-8b0f-371d39b39cd8" alt="Man with wrinkles" width="400"/>
+</p>
 
 

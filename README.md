@@ -23,3 +23,10 @@ The system is designed for **artists, developers, and content creators** who nee
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ac08add-2271-4504-b37c-5cacb0f104c0" alt="Ancient Temple in a Jungle" width="400"/>
 </p>
+
+### Image 3 - A floating circle made of crystal, surrounded by clouds and flocks of birds
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0eef1b65-c4ea-417a-826b-298cc62a1f1e" alt="Cicrular Ball" width="400"/>
+</p>
+
